@@ -7,9 +7,12 @@ package latihan10logika;
 
 /**
  *
- * @author Lenovo
+ * @author Muhammad Alvin Rizqi Ramadhan
+ * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Logika
  */
-public class Latihan10Logika {
+public class PBO1010119913Latihan10Logika {
 
     /**
      * @param args the command line arguments
